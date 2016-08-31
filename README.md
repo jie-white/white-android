@@ -1,3 +1,3 @@
 # white-android
 study android
-to be best
+and to be best
